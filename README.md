@@ -58,4 +58,4 @@ streamlit run app/app.py
 
 ## 👨‍💻 Author
 
-Aishwarya M.L
+Dhruthi G
